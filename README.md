@@ -49,7 +49,8 @@ This project demonstrates multitasking LED control using **STM32**, **FreeRTOS**
    - Blue LED lights up if resource contention occurs.
 
 
+https://github.com/user-attachments/assets/97b8d19b-6ec1-4e8b-8401-d6a060f178b2
 
 
-https://github.com/user-attachments/assets/904b3f04-1552-4480-804a-1d0b49dfae8f
+
 
